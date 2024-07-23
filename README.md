@@ -32,7 +32,7 @@
 
 * [https://cfp.nonamecon.org/nnc2021/talk/WCKLTN/](https://cfp.nonamecon.org/nnc2021/talk/WCKLTN/)
 
-### Black Hat Europe
+### Black Hat Europe  
 
 * [TBD](https://www.blackhat.com/eu-21/)
 
